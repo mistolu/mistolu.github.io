@@ -1,2 +1,2 @@
-# mistolu.github.io
+# mistolu.git.io
 1
